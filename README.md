@@ -11,12 +11,8 @@
 
 <img align="right" src="https://github.com/YourUsername/YourRepo/blob/main/theme.gif?raw=true" width="350" />
 
-Enthusiastic Computer Science fresher skilled in **MS Excel**, **SQL**, **Python**, and **Power BI**. Seeking an entry-level **Data Analyst** role to apply analytical and visualization abilities in transforming data into meaningful insights that drive informed business decisions.
 
-
-
-
-Enthusiastic Computer Science fresher with skills in MS Excel, SQL, Python and Power BI Looking for an entry-level Data Analyst position to leverage analytical and Visualization abilities in transforming data into meaningful insights that support business decisions
+Enthusiastic Computer Science fresher with skills in **MS Excel, SQL, Python and Power BI** Looking for an **entry-level Data Analyst** position to leverage **analytical and Visualization abilities in transforming data** into meaningful insights that support business decisions
 
 
 ### 🧠 Core Strengths  
