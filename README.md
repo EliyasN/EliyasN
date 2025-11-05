@@ -63,6 +63,24 @@ Enthusiastic Computer Science fresher with skills in MS Excel, SQL, Python and P
 
 
 
+<h2 align="left">💼 Skills</h2>
+
+<p align="center" style="background-color:#0d1117; padding:20px; border-radius:15px;">
+  <img src="https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="MS Excel" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow" alt="Python" />
+</p>
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00FFFF&background=000000&center=true&vCenter=true&width=700&lines=MS+Excel+📊;Power+BI+📈;MySQL+🐬;Python+🐍;Data+Visualization+🎨;Data+Modeling+🧩;ETL+Automation+⚙️" 
+    alt="Typing Skills Animation" 
+  />
+</p>
+
+
+
 
 
 
