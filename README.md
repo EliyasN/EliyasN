@@ -27,6 +27,10 @@ Enthusiastic Computer Science fresher with skills in MS Excel, SQL, Python and P
 
 <div align="Left">
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50">
+<img src="https://raw.githubusercontent.com/EliyasN/ELIYAS-N/3085a5d7e08bc3a3be1d5fb6e38ff32db25aa6cf/MySQL.gif" width="50">
+
+
+
 
 <p align="center" style="background-color:#0d1117; padding:20px; border-radius:15px;">
   <img src="https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="MS Excel" />
