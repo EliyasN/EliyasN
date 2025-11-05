@@ -1,4 +1,4 @@
 # 📊 ELIYAS N | DATA ANALYTICS
 
 <img align="right" src=https://github.com/EliyasN/ELIYAS-N/blob/fad18f6147c2b06d7f252bf1db2deecfde602ef7/download.mp4?raw=true width="350" />
-<img align="right" alt="GIF" src="https://github.com/shsarv/shsarv/blob/master/code.gif" width="500" height="320" />
+
