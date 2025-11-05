@@ -63,7 +63,7 @@ Enthusiastic Computer Science fresher with skills in **MS Excel, SQL, Python and
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35" style="margin: 5px; transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='scale(1.15)';this.style.boxShadow='0 0 15px #0077B5';" onmouseout="this.style.transform='scale(1)';this.style.boxShadow='none';">
   </a>
 
-  <a href="https://github.com/yourusername" target="_blank">
+  <a href=["https://github.com/yourusername"](https://github.com/EliyasN) target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="35" style="margin: 5px; transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='scale(1.15)';this.style.boxShadow='0 0 15px #ffffff';" onmouseout="this.style.transform='scale(1)';this.style.boxShadow='none';">
   </a>
 
